@@ -11,5 +11,5 @@
 
 #
 ### TECNOLOGIAS
-- [Java](https://docs.oracle.com/en/java)
-- [Python](https://www.python.org)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
